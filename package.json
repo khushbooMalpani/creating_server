@@ -1,0 +1,23 @@
+{
+  "name": "creating_server",
+  "version": "1.0.0",
+  "description": "our first nodejs server",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushbooMalpani/creating_server.git"
+  },
+  "author": "khushboo malpani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khushbooMalpani/creating_server/issues"
+  },
+  "homepage": "https://github.com/khushbooMalpani/creating_server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
